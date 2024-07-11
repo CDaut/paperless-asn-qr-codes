@@ -2,3 +2,4 @@
 *.pdf
 /dist
 __pycache__
+.direnv
